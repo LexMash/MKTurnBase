@@ -19,7 +19,7 @@ namespace Fighting
             IAnimationController animationController)
         {
             _healthNotifier = healthNotifier;
-            _healthNotifier.OnDamaged += OnDamaged;
+            _healthNotifier.HealthChanged += HealthChanged;
             _healthNotifier.OnDied += OnDied;
 
             _battleCalculator = battleCalculator;
@@ -79,7 +79,7 @@ namespace Fighting
 
         }
 
-        private void OnDamaged(int value)
+        private void HealthChanged(int value)
         {
 
         }
