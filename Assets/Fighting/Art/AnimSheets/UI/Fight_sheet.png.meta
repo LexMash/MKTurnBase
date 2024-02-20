@@ -1,0 +1,1112 @@
+fileFormatVersion: 2
+guid: daff912f12289404e85b74ca80453a9b
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 0
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Fight_sheet_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 173
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b219f654c75e9741b675bcadb397dd8
+      internalID: 1361097297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fight_sheet_1
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 0
+        width: 173
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b685de9da40b1e489da21e9d0bc2011
+      internalID: -168234280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fight_sheet_2
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 0
+        width: 173
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8231b50d627e4a4a8251f83dc075163
+      internalID: -1929803048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fight_sheet_3
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 0
+        width: 173
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbdc7cb41ea4af5458910d162a169df0
+      internalID: -698821541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fight_sheet_4
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 0
+        width: 173
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10a23b3d609864e44b806656adc9c426
+      internalID: 1891304613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fight_sheet_5
+      rect:
+        serializedVersion: 2
+        x: 870
+        y: 0
+        width: 173
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96490a32564b0a842bccc03db775e659
+      internalID: -482479327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fight_sheet_6
+      rect:
+        serializedVersion: 2
+        x: 1044
+        y: 0
+        width: 173
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 336b436abcf2ff04a89ed411aaa70ad3
+      internalID: -1074571836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fight_sheet_7
+      rect:
+        serializedVersion: 2
+        x: 1218
+        y: 0
+        width: 173
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64ff76071900d6341ad816d7c1f21daf
+      internalID: -1544264426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fight_sheet_8
+      rect:
+        serializedVersion: 2
+        x: 1392
+        y: 0
+        width: 173
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47cbc3bf7c6f3fb4eb99a6b312b7b6be
+      internalID: -763545852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fight_sheet_9
+      rect:
+        serializedVersion: 2
+        x: 1566
+        y: 0
+        width: 173
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 571b99c07e38cc146965d10f0eac51eb
+      internalID: 1766123912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fight_sheet_10
+      rect:
+        serializedVersion: 2
+        x: 1740
+        y: 0
+        width: 173
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8705e16b91adbf34386563e0b3c6ae83
+      internalID: -687203187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fight_sheet_11
+      rect:
+        serializedVersion: 2
+        x: 1914
+        y: 0
+        width: 173
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 586627120653d294c95adabe5f8d78b8
+      internalID: -1207000184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fight_sheet_12
+      rect:
+        serializedVersion: 2
+        x: 2088
+        y: 0
+        width: 173
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bad87c2955c10747beb4aa9add6ee3b
+      internalID: 1585120224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fight_sheet_13
+      rect:
+        serializedVersion: 2
+        x: 2262
+        y: 0
+        width: 173
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec7e42798ee23214a8dfbcb19006bab6
+      internalID: 1280027925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fight_sheet_14
+      rect:
+        serializedVersion: 2
+        x: 2436
+        y: 0
+        width: 173
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43a6703410cd1e34798d17aa825511be
+      internalID: -920040746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fight_sheet_15
+      rect:
+        serializedVersion: 2
+        x: 2610
+        y: 0
+        width: 173
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 559578a25edb86a4ba901cdeda8a75a2
+      internalID: -1366075410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fight_sheet_16
+      rect:
+        serializedVersion: 2
+        x: 2784
+        y: 0
+        width: 173
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f590d660ff05450479f5ca179c376d1a
+      internalID: 1345914982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fight_sheet_17
+      rect:
+        serializedVersion: 2
+        x: 2958
+        y: 0
+        width: 173
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7dd184644bd33142afde19fe340c4ce
+      internalID: 1682522785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fight_sheet_18
+      rect:
+        serializedVersion: 2
+        x: 3132
+        y: 0
+        width: 173
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 793943d1e36712b4e9479d1a4b75d9c8
+      internalID: 1238539767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fight_sheet_19
+      rect:
+        serializedVersion: 2
+        x: 3306
+        y: 0
+        width: 173
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00ddcc7a14a5a4542a399124b317a095
+      internalID: -815516392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fight_sheet_20
+      rect:
+        serializedVersion: 2
+        x: 3480
+        y: 0
+        width: 173
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e19c282cdcdfa7a43bf52dda5f406ad1
+      internalID: -178101447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fight_sheet_21
+      rect:
+        serializedVersion: 2
+        x: 3654
+        y: 0
+        width: 173
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eca434a374ec6a54092a726c71ac71e6
+      internalID: -695177442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fight_sheet_22
+      rect:
+        serializedVersion: 2
+        x: 3828
+        y: 0
+        width: 173
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a770eadbd774b343a0676bff308d035
+      internalID: 1386050414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fight_sheet_23
+      rect:
+        serializedVersion: 2
+        x: 4002
+        y: 0
+        width: 173
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12c777839f407ad4f8e186f579e35615
+      internalID: -1735522344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fight_sheet_24
+      rect:
+        serializedVersion: 2
+        x: 4176
+        y: 0
+        width: 173
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 297b4d57dae79e04ba9a01e02e8402f5
+      internalID: 383151250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fight_sheet_25
+      rect:
+        serializedVersion: 2
+        x: 4350
+        y: 0
+        width: 173
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b51062d0e45392044b52f9931b203333
+      internalID: 1731936804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fight_sheet_26
+      rect:
+        serializedVersion: 2
+        x: 4524
+        y: 0
+        width: 173
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 088e09378bcd6b44da5efd43720d06ce
+      internalID: -1675655594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fight_sheet_27
+      rect:
+        serializedVersion: 2
+        x: 4698
+        y: 0
+        width: 173
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09e02bb688033074489ce2dbc8aefb82
+      internalID: -1792244544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fight_sheet_28
+      rect:
+        serializedVersion: 2
+        x: 4872
+        y: 0
+        width: 173
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e8d13e753ab456499624214203464a7
+      internalID: -1392767065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fight_sheet_29
+      rect:
+        serializedVersion: 2
+        x: 5046
+        y: 0
+        width: 173
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0279bf868203f964c9ef006ba7ca54f1
+      internalID: -1761996898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fight_sheet_30
+      rect:
+        serializedVersion: 2
+        x: 5220
+        y: 0
+        width: 173
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccf875630ed962542ad7eb30f8349adb
+      internalID: -947493671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fight_sheet_31
+      rect:
+        serializedVersion: 2
+        x: 5394
+        y: 0
+        width: 173
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 096ea49ee501fa343aa84a9e8888131c
+      internalID: 298376217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fight_sheet_32
+      rect:
+        serializedVersion: 2
+        x: 5568
+        y: 0
+        width: 173
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75ca42199f714ca4dbba76e8ac79afd1
+      internalID: -1026214367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fight_sheet_33
+      rect:
+        serializedVersion: 2
+        x: 5742
+        y: 0
+        width: 173
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b80e1c618efe6ca4082f0b5d779db188
+      internalID: -848485112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fight_sheet_34
+      rect:
+        serializedVersion: 2
+        x: 5916
+        y: 0
+        width: 173
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6405cdd157ce2fa4d945e54dc5b302aa
+      internalID: -484101274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fight_sheet_35
+      rect:
+        serializedVersion: 2
+        x: 6090
+        y: 0
+        width: 173
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6965ba97f0d25d4fb59dfc9b6da7179
+      internalID: 229593021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fight_sheet_36
+      rect:
+        serializedVersion: 2
+        x: 6264
+        y: 0
+        width: 173
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b25f7c7cc27c694d8bc47d9bc8602b8
+      internalID: 811930529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fight_sheet_37
+      rect:
+        serializedVersion: 2
+        x: 6438
+        y: 0
+        width: 173
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22a45c8e4cef6eb409c99de1516fcd95
+      internalID: 1256504939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fight_sheet_38
+      rect:
+        serializedVersion: 2
+        x: 6612
+        y: 0
+        width: 173
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5ec1fd69d4d6174099badac619d599a
+      internalID: 1196783996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fight_sheet_39
+      rect:
+        serializedVersion: 2
+        x: 6786
+        y: 0
+        width: 173
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d8449dc1d864d843bd00c84d7b0aae0
+      internalID: -1176021023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fight_sheet_40
+      rect:
+        serializedVersion: 2
+        x: 6960
+        y: 0
+        width: 173
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b145474b3d447e468c053fc161a5c00
+      internalID: 461807188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fight_sheet_41
+      rect:
+        serializedVersion: 2
+        x: 7134
+        y: 0
+        width: 173
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af7326f93410a0c4cb351e55ab7db512
+      internalID: 489187127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fight_sheet_42
+      rect:
+        serializedVersion: 2
+        x: 7308
+        y: 0
+        width: 173
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8318006201b238c4a93ff14e457eb031
+      internalID: -1251803260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Fight_sheet_0: 1361097297
+      Fight_sheet_1: -168234280
+      Fight_sheet_10: -687203187
+      Fight_sheet_11: -1207000184
+      Fight_sheet_12: 1585120224
+      Fight_sheet_13: 1280027925
+      Fight_sheet_14: -920040746
+      Fight_sheet_15: -1366075410
+      Fight_sheet_16: 1345914982
+      Fight_sheet_17: 1682522785
+      Fight_sheet_18: 1238539767
+      Fight_sheet_19: -815516392
+      Fight_sheet_2: -1929803048
+      Fight_sheet_20: -178101447
+      Fight_sheet_21: -695177442
+      Fight_sheet_22: 1386050414
+      Fight_sheet_23: -1735522344
+      Fight_sheet_24: 383151250
+      Fight_sheet_25: 1731936804
+      Fight_sheet_26: -1675655594
+      Fight_sheet_27: -1792244544
+      Fight_sheet_28: -1392767065
+      Fight_sheet_29: -1761996898
+      Fight_sheet_3: -698821541
+      Fight_sheet_30: -947493671
+      Fight_sheet_31: 298376217
+      Fight_sheet_32: -1026214367
+      Fight_sheet_33: -848485112
+      Fight_sheet_34: -484101274
+      Fight_sheet_35: 229593021
+      Fight_sheet_36: 811930529
+      Fight_sheet_37: 1256504939
+      Fight_sheet_38: 1196783996
+      Fight_sheet_39: -1176021023
+      Fight_sheet_4: 1891304613
+      Fight_sheet_40: 461807188
+      Fight_sheet_41: 489187127
+      Fight_sheet_42: -1251803260
+      Fight_sheet_5: -482479327
+      Fight_sheet_6: -1074571836
+      Fight_sheet_7: -1544264426
+      Fight_sheet_8: -763545852
+      Fight_sheet_9: 1766123912
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

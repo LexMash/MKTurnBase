@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 4c6b3b43ea86a4b439d421d14ead278e
+guid: 152ad23015f9b3c4eaff4df52753f7c6
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -149,13 +149,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: LightShafts_dragonSheet_0
+      name: SmallBloodSheet_0
       rect:
         serializedVersion: 2
         x: 0
         y: 0
-        width: 80
-        height: 62
+        width: 17
+        height: 33
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -163,407 +163,302 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 44dd549fb957c0e478575d21602c22da
-      internalID: -282985006
+      spriteID: e2e3646bd927102458d620c1f069e8e3
+      internalID: 77497549
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: LightShafts_dragonSheet_1
+      name: SmallBloodSheet_1
       rect:
         serializedVersion: 2
-        x: 80
+        x: 18
         y: 0
-        width: 80
-        height: 62
+        width: 13
+        height: 33
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: da5020b538ebcf44d93825e1bfcaac02
-      internalID: -511214552
+      spriteID: 293c20537a4ecbd4cbb858c4b899e3b4
+      internalID: -34785958
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: LightShafts_dragonSheet_2
+      name: SmallBloodSheet_2
       rect:
         serializedVersion: 2
-        x: 160
+        x: 37
         y: 0
-        width: 80
-        height: 62
+        width: 11
+        height: 33
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: bfc96003e3113964596e2a7480dcc6d8
-      internalID: 261868848
+      spriteID: f9a5332116891ad42b1b911c41dc1123
+      internalID: 123089804
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: LightShafts_dragonSheet_3
+      name: SmallBloodSheet_3
       rect:
         serializedVersion: 2
-        x: 240
+        x: 54
         y: 0
-        width: 80
-        height: 62
+        width: 14
+        height: 33
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 1de3e0ece98154e4d886a485d38bc61e
-      internalID: -1911891809
+      spriteID: b063a7bf3c0b28f4a9cfd5c6e82fb79e
+      internalID: 393189504
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: LightShafts_dragonSheet_4
+      name: SmallBloodSheet_4
       rect:
         serializedVersion: 2
-        x: 320
+        x: 75
         y: 0
-        width: 80
-        height: 62
+        width: 20
+        height: 33
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 1fc327969a79ec24496b6900c96203c9
-      internalID: 2035697868
+      spriteID: 61c4d00f14274a44297bbfc46261ebb6
+      internalID: 52983147
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: LightShafts_dragonSheet_5
+      name: SmallBloodSheet_5
       rect:
         serializedVersion: 2
-        x: 400
+        x: 97
         y: 0
-        width: 80
-        height: 62
+        width: 20
+        height: 33
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 48de9d6410d57dc429aad6e519e8ccc5
-      internalID: 607114966
+      spriteID: b73a2d28cb260294481e03fbc7af07b3
+      internalID: -731544005
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: LightShafts_dragonSheet_6
+      name: SmallBloodSheet_6
       rect:
         serializedVersion: 2
-        x: 480
+        x: 120
         y: 0
-        width: 80
-        height: 62
+        width: 20
+        height: 33
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 13e4d871de8c14a45a0423f0fe4b8c2e
-      internalID: 735783582
+      spriteID: f69481abb3c385a4a8dd516854cc4e9a
+      internalID: -289966257
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: LightShafts_dragonSheet_7
+      name: SmallBloodSheet_7
       rect:
         serializedVersion: 2
-        x: 560
+        x: 146
         y: 0
-        width: 80
-        height: 62
+        width: 20
+        height: 33
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: d3e65dd771b996c4fb21f69845bfe18b
-      internalID: 940287521
+      spriteID: e80fed14182d55143a1ea71e5e425db3
+      internalID: 1183647149
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: LightShafts_dragonSheet_8
+      name: SmallBloodSheet_8
       rect:
         serializedVersion: 2
-        x: 640
+        x: 171
         y: 0
-        width: 80
-        height: 62
+        width: 20
+        height: 33
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: d6287d4c3b7ac4d49a7e0f534289a97e
-      internalID: 1461162683
+      spriteID: 28eacb74030a77e4bb416be6cea7f3a6
+      internalID: 24741417
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: LightShafts_dragonSheet_9
+      name: SmallBloodSheet_9
       rect:
         serializedVersion: 2
-        x: 720
+        x: 216
         y: 0
-        width: 80
-        height: 62
+        width: 14
+        height: 33
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 9b7eee55e0845c64abe465c6af8da678
-      internalID: -1017545301
+      spriteID: d57e8d8f3603d6145af31ac48872323d
+      internalID: 641098179
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: LightShafts_dragonSheet_10
+      name: SmallBloodSheet_10
       rect:
         serializedVersion: 2
-        x: 800
+        x: 194
         y: 0
-        width: 80
-        height: 62
+        width: 20
+        height: 33
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 6aadfe10695b7394781770a54588b9e0
-      internalID: -519746745
+      spriteID: ad8bf739499a9db49b345361560d8934
+      internalID: 470956526
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: LightShafts_dragonSheet_11
+      name: SmallBloodSheet_11
       rect:
         serializedVersion: 2
-        x: 880
+        x: 229
         y: 0
-        width: 80
-        height: 62
+        width: 12
+        height: 33
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 4d61fd805aaf2914d8e727315d1571f4
-      internalID: -1216645451
+      spriteID: adff8dc022c9c9744a20e11590d3d535
+      internalID: 1173982413
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: LightShafts_dragonSheet_12
+      name: SmallBloodSheet_12
       rect:
         serializedVersion: 2
-        x: 960
+        x: 248
         y: 0
-        width: 80
-        height: 62
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        width: 20
+        height: 33
+      alignment: 9
+      pivot: {x: 0.51928407, y: 0.17862055}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 10e5dccf888e3bc4495feed8cc6be226
-      internalID: -1484185571
+      spriteID: 989a1b416c90d5d45ba42f970347ba0a
+      internalID: 1188729738
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: LightShafts_dragonSheet_13
+      name: SmallBloodSheet_13
       rect:
         serializedVersion: 2
-        x: 1040
+        x: 268
         y: 0
-        width: 80
-        height: 62
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        width: 23
+        height: 33
+      alignment: 9
+      pivot: {x: 0.47484952, y: 0.14356095}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: ba91efd8a9f39134abce1b4fdeec0ddb
-      internalID: -1292388126
+      spriteID: 6e3c9c75ddf07cb46a1b13e5ee15b8f9
+      internalID: 104362323
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: LightShafts_dragonSheet_14
+      name: SmallBloodSheet_15
       rect:
         serializedVersion: 2
-        x: 1120
+        x: 299
         y: 0
-        width: 80
-        height: 62
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        width: 26
+        height: 33
+      alignment: 9
+      pivot: {x: 0.52224964, y: 0.16693401}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: b808643bdf477b540b2653f04064ead7
-      internalID: -561608650
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: LightShafts_dragonSheet_15
-      rect:
-        serializedVersion: 2
-        x: 1200
-        y: 0
-        width: 80
-        height: 62
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 43ada16add0877a4daa7c33b56bc8c2f
-      internalID: -522959859
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: LightShafts_dragonSheet_16
-      rect:
-        serializedVersion: 2
-        x: 1280
-        y: 0
-        width: 80
-        height: 62
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 3fe97e762db0e0a498e9fb61a1499d79
-      internalID: 1292470706
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: LightShafts_dragonSheet_17
-      rect:
-        serializedVersion: 2
-        x: 1360
-        y: 0
-        width: 80
-        height: 62
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 5b043f13b61d70f498894dcd9db8adc8
-      internalID: 1411369094
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: LightShafts_dragonSheet_18
-      rect:
-        serializedVersion: 2
-        x: 1440
-        y: 0
-        width: 80
-        height: 62
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 95788c6c2ad2bb343912f6c89b9a069f
-      internalID: 110565873
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: LightShafts_dragonSheet_19
-      rect:
-        serializedVersion: 2
-        x: 1520
-        y: 0
-        width: 80
-        height: 62
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 0d454734006c66248a493af82c7df1c6
-      internalID: 421320794
+      spriteID: f4f538559960ae5429f90b32670eae9d
+      internalID: 1757319606
       vertices: []
       indices: 
       edges: []
@@ -579,26 +474,22 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      LightShafts_dragonSheet_0: -282985006
-      LightShafts_dragonSheet_1: -511214552
-      LightShafts_dragonSheet_10: -519746745
-      LightShafts_dragonSheet_11: -1216645451
-      LightShafts_dragonSheet_12: -1484185571
-      LightShafts_dragonSheet_13: -1292388126
-      LightShafts_dragonSheet_14: -561608650
-      LightShafts_dragonSheet_15: -522959859
-      LightShafts_dragonSheet_16: 1292470706
-      LightShafts_dragonSheet_17: 1411369094
-      LightShafts_dragonSheet_18: 110565873
-      LightShafts_dragonSheet_19: 421320794
-      LightShafts_dragonSheet_2: 261868848
-      LightShafts_dragonSheet_3: -1911891809
-      LightShafts_dragonSheet_4: 2035697868
-      LightShafts_dragonSheet_5: 607114966
-      LightShafts_dragonSheet_6: 735783582
-      LightShafts_dragonSheet_7: 940287521
-      LightShafts_dragonSheet_8: 1461162683
-      LightShafts_dragonSheet_9: -1017545301
+      SmallBloodSheet_0: 77497549
+      SmallBloodSheet_1: -34785958
+      SmallBloodSheet_10: 470956526
+      SmallBloodSheet_11: 1173982413
+      SmallBloodSheet_12: 1188729738
+      SmallBloodSheet_13: 104362323
+      SmallBloodSheet_14: -901220470
+      SmallBloodSheet_15: 1757319606
+      SmallBloodSheet_2: 123089804
+      SmallBloodSheet_3: 393189504
+      SmallBloodSheet_4: 52983147
+      SmallBloodSheet_5: -731544005
+      SmallBloodSheet_6: -289966257
+      SmallBloodSheet_7: 1183647149
+      SmallBloodSheet_8: 24741417
+      SmallBloodSheet_9: 641098179
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -1,0 +1,1134 @@
+fileFormatVersion: 2
+guid: eb2555c8969f37a4c8db62ec8bc4a1ee
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 0
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: FinishHim_sheet_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 306
+        height: 178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91ff0797782952046a0b3ab76b50149c
+      internalID: 1335231098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FinishHim_sheet_1
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 0
+        width: 306
+        height: 178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67653f930e0ab384ab3543c11f41b381
+      internalID: -1006240003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FinishHim_sheet_2
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 0
+        width: 306
+        height: 178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f52d215a279cb9b43a4e0a21a52ac2b2
+      internalID: 142905708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FinishHim_sheet_3
+      rect:
+        serializedVersion: 2
+        x: 924
+        y: 0
+        width: 306
+        height: 178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00490a5983ac8eb4fa9663a35279daae
+      internalID: -1049391442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FinishHim_sheet_4
+      rect:
+        serializedVersion: 2
+        x: 1232
+        y: 0
+        width: 306
+        height: 178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c49b49a7337d7d448db6d670cfb8aac
+      internalID: -694492674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FinishHim_sheet_5
+      rect:
+        serializedVersion: 2
+        x: 1540
+        y: 0
+        width: 306
+        height: 178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0984c459800e3c34d9fff8f36850e12f
+      internalID: 171895463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FinishHim_sheet_6
+      rect:
+        serializedVersion: 2
+        x: 1848
+        y: 0
+        width: 306
+        height: 178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 997ec2a3fe7cb334dae45bec7891635a
+      internalID: -1403931964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FinishHim_sheet_7
+      rect:
+        serializedVersion: 2
+        x: 2156
+        y: 0
+        width: 306
+        height: 178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac56b8db83b00fe4295022fa8f19ed9e
+      internalID: -2024121640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FinishHim_sheet_8
+      rect:
+        serializedVersion: 2
+        x: 2464
+        y: 0
+        width: 306
+        height: 178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4969049350904f4bba8d8d4dd54e984
+      internalID: -509206843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FinishHim_sheet_9
+      rect:
+        serializedVersion: 2
+        x: 2772
+        y: 0
+        width: 306
+        height: 178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49943a7881af3e34ba5b4d602e812031
+      internalID: -690611463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FinishHim_sheet_10
+      rect:
+        serializedVersion: 2
+        x: 3080
+        y: 0
+        width: 306
+        height: 178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c47364fb7865954bb5124d2087a3241
+      internalID: -480189067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FinishHim_sheet_11
+      rect:
+        serializedVersion: 2
+        x: 3388
+        y: 0
+        width: 306
+        height: 178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25f3ee5ba1c7b624c838f595087941a8
+      internalID: -293176756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FinishHim_sheet_12
+      rect:
+        serializedVersion: 2
+        x: 3696
+        y: 0
+        width: 306
+        height: 178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1de05ac8a4e8aab4089c676c172b75b0
+      internalID: 336322206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FinishHim_sheet_13
+      rect:
+        serializedVersion: 2
+        x: 4004
+        y: 0
+        width: 306
+        height: 178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f4b0f54d9f37e64480ab83a50eec581
+      internalID: -2112044759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FinishHim_sheet_14
+      rect:
+        serializedVersion: 2
+        x: 4312
+        y: 0
+        width: 306
+        height: 178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b66385f99ab95a34b8b36c6fea788e38
+      internalID: 1113144687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FinishHim_sheet_15
+      rect:
+        serializedVersion: 2
+        x: 4620
+        y: 0
+        width: 306
+        height: 178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79848ed852c8a68479f41bd9c1915f5c
+      internalID: -362222031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FinishHim_sheet_16
+      rect:
+        serializedVersion: 2
+        x: 4928
+        y: 0
+        width: 306
+        height: 178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db27600821ef135479989c3d133f83c6
+      internalID: 1599395209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FinishHim_sheet_17
+      rect:
+        serializedVersion: 2
+        x: 5236
+        y: 0
+        width: 306
+        height: 178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf396bde14cb34f41b8a829135718939
+      internalID: 925499243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FinishHim_sheet_18
+      rect:
+        serializedVersion: 2
+        x: 5544
+        y: 0
+        width: 306
+        height: 178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4109eb93480d0e4592e5c29028bb09c
+      internalID: -899657576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FinishHim_sheet_19
+      rect:
+        serializedVersion: 2
+        x: 5852
+        y: 0
+        width: 306
+        height: 178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1247802c6a4bd6c48b4d59ce533def51
+      internalID: 858309758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FinishHim_sheet_20
+      rect:
+        serializedVersion: 2
+        x: 6160
+        y: 0
+        width: 306
+        height: 178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5163e1a98bccc264e80d68d9f59ce8b9
+      internalID: -1616935040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FinishHim_sheet_21
+      rect:
+        serializedVersion: 2
+        x: 6468
+        y: 0
+        width: 306
+        height: 178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8750fa4fe0a0edc44a9bd18632adc76c
+      internalID: -784198575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FinishHim_sheet_22
+      rect:
+        serializedVersion: 2
+        x: 6776
+        y: 0
+        width: 306
+        height: 178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d97e55e61effd64b9d47628d3e4f981
+      internalID: -521413955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FinishHim_sheet_23
+      rect:
+        serializedVersion: 2
+        x: 7084
+        y: 0
+        width: 306
+        height: 178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f83b5b0a0c23ec446a0c87ded44aa2f4
+      internalID: -428961856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FinishHim_sheet_24
+      rect:
+        serializedVersion: 2
+        x: 7392
+        y: 0
+        width: 306
+        height: 178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 393c06a41aae80a469bb190ca425194a
+      internalID: 857271906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FinishHim_sheet_25
+      rect:
+        serializedVersion: 2
+        x: 7700
+        y: 0
+        width: 306
+        height: 178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5f37bcfa7eca1541b98550057387f0c
+      internalID: -2035070677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FinishHim_sheet_26
+      rect:
+        serializedVersion: 2
+        x: 8008
+        y: 0
+        width: 306
+        height: 178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1c0b1bf7c0b9084a82784ed70881e43
+      internalID: -1345640986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FinishHim_sheet_27
+      rect:
+        serializedVersion: 2
+        x: 8316
+        y: 0
+        width: 306
+        height: 178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f30027760f77c34f91fb84d913cd4b0
+      internalID: 2114923745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FinishHim_sheet_28
+      rect:
+        serializedVersion: 2
+        x: 8624
+        y: 0
+        width: 306
+        height: 178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 836cd65de4263c54eae0091f0cc1dec3
+      internalID: 319635120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FinishHim_sheet_29
+      rect:
+        serializedVersion: 2
+        x: 8932
+        y: 0
+        width: 306
+        height: 178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3f26537a7322ca458aed1ef5c88f839
+      internalID: 1475640144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FinishHim_sheet_30
+      rect:
+        serializedVersion: 2
+        x: 9240
+        y: 0
+        width: 306
+        height: 178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e660630732f38d4c89452376b782f93
+      internalID: 213085187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FinishHim_sheet_31
+      rect:
+        serializedVersion: 2
+        x: 9548
+        y: 0
+        width: 306
+        height: 178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d55c09c83fd0b2f4a89b838a1fa87317
+      internalID: -1645860647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FinishHim_sheet_32
+      rect:
+        serializedVersion: 2
+        x: 9856
+        y: 0
+        width: 306
+        height: 178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a558301cf288d3499ff73a4219a5628
+      internalID: -810766042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FinishHim_sheet_33
+      rect:
+        serializedVersion: 2
+        x: 10164
+        y: 0
+        width: 306
+        height: 178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f71f611b1f67f0940a37c7861bc6036f
+      internalID: -1479764541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FinishHim_sheet_34
+      rect:
+        serializedVersion: 2
+        x: 10472
+        y: 0
+        width: 306
+        height: 178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e211361405e72d646bc35c54f9b954e4
+      internalID: -1946394617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FinishHim_sheet_35
+      rect:
+        serializedVersion: 2
+        x: 10780
+        y: 0
+        width: 306
+        height: 178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f8524d92d6b87c43bd5711e89a824b2
+      internalID: 1377165760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FinishHim_sheet_36
+      rect:
+        serializedVersion: 2
+        x: 11088
+        y: 0
+        width: 306
+        height: 178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80d6813d0f106f341afdb844467cc332
+      internalID: 204165537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FinishHim_sheet_37
+      rect:
+        serializedVersion: 2
+        x: 11396
+        y: 0
+        width: 306
+        height: 178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53ed56c15ac193c408523bc278398c4a
+      internalID: -1736375885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FinishHim_sheet_38
+      rect:
+        serializedVersion: 2
+        x: 11704
+        y: 0
+        width: 306
+        height: 178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c25372243ad08f34ba803b0e0f90aacb
+      internalID: -956912344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FinishHim_sheet_39
+      rect:
+        serializedVersion: 2
+        x: 12012
+        y: 0
+        width: 306
+        height: 178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 846d10e382459194090095f4b92a5e08
+      internalID: 748160331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FinishHim_sheet_40
+      rect:
+        serializedVersion: 2
+        x: 12320
+        y: 0
+        width: 306
+        height: 178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 083613dd77defbc498900f0dc5eeea9b
+      internalID: 1929939398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FinishHim_sheet_41
+      rect:
+        serializedVersion: 2
+        x: 12628
+        y: 0
+        width: 306
+        height: 178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 364562ac6bfe2c646a002b908feea653
+      internalID: 50409703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FinishHim_sheet_42
+      rect:
+        serializedVersion: 2
+        x: 12936
+        y: 0
+        width: 306
+        height: 178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56308ad3a43837f44b14b6b9e56ee45b
+      internalID: 647150273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FinishHim_sheet_43
+      rect:
+        serializedVersion: 2
+        x: 13244
+        y: 0
+        width: 306
+        height: 178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3632ea30be3c2c5448749cf6e7987188
+      internalID: 364846310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      FinishHim_sheet_0: 1335231098
+      FinishHim_sheet_1: -1006240003
+      FinishHim_sheet_10: -480189067
+      FinishHim_sheet_11: -293176756
+      FinishHim_sheet_12: 336322206
+      FinishHim_sheet_13: -2112044759
+      FinishHim_sheet_14: 1113144687
+      FinishHim_sheet_15: -362222031
+      FinishHim_sheet_16: 1599395209
+      FinishHim_sheet_17: 925499243
+      FinishHim_sheet_18: -899657576
+      FinishHim_sheet_19: 858309758
+      FinishHim_sheet_2: 142905708
+      FinishHim_sheet_20: -1616935040
+      FinishHim_sheet_21: -784198575
+      FinishHim_sheet_22: -521413955
+      FinishHim_sheet_23: -428961856
+      FinishHim_sheet_24: 857271906
+      FinishHim_sheet_25: -2035070677
+      FinishHim_sheet_26: -1345640986
+      FinishHim_sheet_27: 2114923745
+      FinishHim_sheet_28: 319635120
+      FinishHim_sheet_29: 1475640144
+      FinishHim_sheet_3: -1049391442
+      FinishHim_sheet_30: 213085187
+      FinishHim_sheet_31: -1645860647
+      FinishHim_sheet_32: -810766042
+      FinishHim_sheet_33: -1479764541
+      FinishHim_sheet_34: -1946394617
+      FinishHim_sheet_35: 1377165760
+      FinishHim_sheet_36: 204165537
+      FinishHim_sheet_37: -1736375885
+      FinishHim_sheet_38: -956912344
+      FinishHim_sheet_39: 748160331
+      FinishHim_sheet_4: -694492674
+      FinishHim_sheet_40: 1929939398
+      FinishHim_sheet_41: 50409703
+      FinishHim_sheet_42: 647150273
+      FinishHim_sheet_43: 364846310
+      FinishHim_sheet_5: 171895463
+      FinishHim_sheet_6: -1403931964
+      FinishHim_sheet_7: -2024121640
+      FinishHim_sheet_8: -509206843
+      FinishHim_sheet_9: -690611463
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

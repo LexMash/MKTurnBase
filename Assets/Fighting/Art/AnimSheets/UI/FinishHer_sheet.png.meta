@@ -1,0 +1,1134 @@
+fileFormatVersion: 2
+guid: e158e35715c78814692053b90ec49dad
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 0
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: FinishHer_sheet_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 313
+        height: 178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd83de0b0a0be734d893b1cc51eb4a5e
+      internalID: -1247921357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FinishHer_sheet_1
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 0
+        width: 313
+        height: 178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0feabc524c77b34c9b5c115e2ed9477
+      internalID: 1825987714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FinishHer_sheet_2
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 0
+        width: 313
+        height: 178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 971d30814087ced48bbcbc6dda4d2cf1
+      internalID: 630857276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FinishHer_sheet_3
+      rect:
+        serializedVersion: 2
+        x: 945
+        y: 0
+        width: 313
+        height: 178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ade175fbdc69a04e8d3df032b598876
+      internalID: -455925285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FinishHer_sheet_4
+      rect:
+        serializedVersion: 2
+        x: 1260
+        y: 0
+        width: 313
+        height: 178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2dea340ab55bc4f4786905023a6fee7a
+      internalID: -1768233903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FinishHer_sheet_5
+      rect:
+        serializedVersion: 2
+        x: 1575
+        y: 0
+        width: 313
+        height: 178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c894888a9adde52459e9570a9cd03872
+      internalID: -1397073635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FinishHer_sheet_6
+      rect:
+        serializedVersion: 2
+        x: 1890
+        y: 0
+        width: 313
+        height: 178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68a007795f078a54488c367d281d683a
+      internalID: -1390799683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FinishHer_sheet_7
+      rect:
+        serializedVersion: 2
+        x: 2205
+        y: 0
+        width: 313
+        height: 178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ac1142b9e7e16d41be6612542c2199c
+      internalID: 1095879421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FinishHer_sheet_8
+      rect:
+        serializedVersion: 2
+        x: 2520
+        y: 0
+        width: 313
+        height: 178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1a2c31e83a42ca448f048fb782dc933
+      internalID: 1591640391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FinishHer_sheet_9
+      rect:
+        serializedVersion: 2
+        x: 2835
+        y: 0
+        width: 313
+        height: 178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b5f204240040d943a0d91e6abfdc3cf
+      internalID: -974045542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FinishHer_sheet_10
+      rect:
+        serializedVersion: 2
+        x: 3150
+        y: 0
+        width: 313
+        height: 178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55f4415637a870e4688644840cfa5aa4
+      internalID: 966900044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FinishHer_sheet_11
+      rect:
+        serializedVersion: 2
+        x: 3465
+        y: 0
+        width: 313
+        height: 178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10d53f0893db78d40b8cdcf152ec21a5
+      internalID: 1166449057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FinishHer_sheet_12
+      rect:
+        serializedVersion: 2
+        x: 3780
+        y: 0
+        width: 313
+        height: 178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1057dc31c44cbd40993bab16f4e7c47
+      internalID: -1446281980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FinishHer_sheet_13
+      rect:
+        serializedVersion: 2
+        x: 4095
+        y: 0
+        width: 313
+        height: 178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b707d1d89bb47cc41a0c1b3cd8cf6d18
+      internalID: -666376146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FinishHer_sheet_14
+      rect:
+        serializedVersion: 2
+        x: 4410
+        y: 0
+        width: 313
+        height: 178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c463007d24203444bd953085be52593
+      internalID: -452871241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FinishHer_sheet_15
+      rect:
+        serializedVersion: 2
+        x: 4725
+        y: 0
+        width: 313
+        height: 178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7786e8748fa99194b9de3d75dc17a5be
+      internalID: 1595760785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FinishHer_sheet_16
+      rect:
+        serializedVersion: 2
+        x: 5040
+        y: 0
+        width: 313
+        height: 178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8836fb86f8923f74a8edbde1e4b9ca67
+      internalID: -1081560141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FinishHer_sheet_17
+      rect:
+        serializedVersion: 2
+        x: 5355
+        y: 0
+        width: 313
+        height: 178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38d35faead1aeee49ae1a80aaec8661d
+      internalID: -1162177574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FinishHer_sheet_18
+      rect:
+        serializedVersion: 2
+        x: 5670
+        y: 0
+        width: 313
+        height: 178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 646c9d05597494840983ffac54173632
+      internalID: -1820631610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FinishHer_sheet_19
+      rect:
+        serializedVersion: 2
+        x: 5985
+        y: 0
+        width: 313
+        height: 178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d06bd465829be074eb1074b85fc892dc
+      internalID: -990904094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FinishHer_sheet_20
+      rect:
+        serializedVersion: 2
+        x: 6300
+        y: 0
+        width: 313
+        height: 178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f66f02de71637ec45a79889163d16082
+      internalID: 1446817211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FinishHer_sheet_21
+      rect:
+        serializedVersion: 2
+        x: 6615
+        y: 0
+        width: 313
+        height: 178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ad44e266d0b3d44b93f02687363c79c
+      internalID: 589930723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FinishHer_sheet_22
+      rect:
+        serializedVersion: 2
+        x: 6930
+        y: 0
+        width: 313
+        height: 178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa7cc7911d034f64191f83d73707d1c0
+      internalID: -1141781379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FinishHer_sheet_23
+      rect:
+        serializedVersion: 2
+        x: 7245
+        y: 0
+        width: 313
+        height: 178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ecd6eecab9873f41b0e325a8a49ecb9
+      internalID: -203861613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FinishHer_sheet_24
+      rect:
+        serializedVersion: 2
+        x: 7560
+        y: 0
+        width: 313
+        height: 178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24b210ac34b93474683b812e9c7a3ef9
+      internalID: 1906421038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FinishHer_sheet_25
+      rect:
+        serializedVersion: 2
+        x: 7875
+        y: 0
+        width: 313
+        height: 178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 722609b2ea613e84888b2c3609bcdf79
+      internalID: -2141540075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FinishHer_sheet_26
+      rect:
+        serializedVersion: 2
+        x: 8190
+        y: 0
+        width: 313
+        height: 178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58694227e28bd1b45bc2a88087210f1e
+      internalID: -1352235290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FinishHer_sheet_27
+      rect:
+        serializedVersion: 2
+        x: 8505
+        y: 0
+        width: 313
+        height: 178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a8861b736b30de4bb292454131f11ee
+      internalID: -355955408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FinishHer_sheet_28
+      rect:
+        serializedVersion: 2
+        x: 8820
+        y: 0
+        width: 313
+        height: 178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f79cc75d9a9ac684b990abf753c9ec16
+      internalID: -1487508544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FinishHer_sheet_29
+      rect:
+        serializedVersion: 2
+        x: 9135
+        y: 0
+        width: 313
+        height: 178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2879a9553d9466428fad9e53a1e83e4
+      internalID: 1279949839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FinishHer_sheet_30
+      rect:
+        serializedVersion: 2
+        x: 9450
+        y: 0
+        width: 313
+        height: 178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ad982f5d17e70748b95b05594571b98
+      internalID: -1198469415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FinishHer_sheet_31
+      rect:
+        serializedVersion: 2
+        x: 9765
+        y: 0
+        width: 313
+        height: 178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2b86507ed7b09e4cbc45496ffd2fa52
+      internalID: -1452855650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FinishHer_sheet_32
+      rect:
+        serializedVersion: 2
+        x: 10080
+        y: 0
+        width: 313
+        height: 178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f32ef7156ca21a40bb4f0ea59cac071
+      internalID: -389264153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FinishHer_sheet_33
+      rect:
+        serializedVersion: 2
+        x: 10395
+        y: 0
+        width: 313
+        height: 178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e85991412d0d0b44ca11d9145ccfe69c
+      internalID: 10762525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FinishHer_sheet_34
+      rect:
+        serializedVersion: 2
+        x: 10710
+        y: 0
+        width: 313
+        height: 178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 893ca310d2783454e8e3db6145c7d4c4
+      internalID: -1460717369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FinishHer_sheet_35
+      rect:
+        serializedVersion: 2
+        x: 11025
+        y: 0
+        width: 313
+        height: 178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d87089191eb077f4eb1605e294ebf367
+      internalID: 363640919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FinishHer_sheet_36
+      rect:
+        serializedVersion: 2
+        x: 11340
+        y: 0
+        width: 313
+        height: 178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd92c954ed2ad4143971900ba8d9e8ec
+      internalID: -738843377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FinishHer_sheet_37
+      rect:
+        serializedVersion: 2
+        x: 11655
+        y: 0
+        width: 313
+        height: 178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 601a10e41c873cf479ee664acbe3aba9
+      internalID: -1373985288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FinishHer_sheet_38
+      rect:
+        serializedVersion: 2
+        x: 11970
+        y: 0
+        width: 313
+        height: 178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e190dcf820f1eb4f9d42528702a9a4b
+      internalID: -2032128305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FinishHer_sheet_39
+      rect:
+        serializedVersion: 2
+        x: 12285
+        y: 0
+        width: 313
+        height: 178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d4a797e712ca9a449c422d69e3881e1
+      internalID: 1083857058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FinishHer_sheet_40
+      rect:
+        serializedVersion: 2
+        x: 12600
+        y: 0
+        width: 313
+        height: 178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ea824bf5fbcb8443aba036bb9305cd9
+      internalID: -1510870035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FinishHer_sheet_41
+      rect:
+        serializedVersion: 2
+        x: 12915
+        y: 0
+        width: 313
+        height: 178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af44f7df5ce0de441af69c83663af903
+      internalID: 1066199108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FinishHer_sheet_42
+      rect:
+        serializedVersion: 2
+        x: 13230
+        y: 0
+        width: 313
+        height: 178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca197cfdd748d2f41a4d65c49f853b94
+      internalID: -1581268219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FinishHer_sheet_43
+      rect:
+        serializedVersion: 2
+        x: 13545
+        y: 0
+        width: 313
+        height: 178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94b1dd98a331b564ba84f4df913f3550
+      internalID: -250063151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      FinishHer_sheet_0: -1247921357
+      FinishHer_sheet_1: 1825987714
+      FinishHer_sheet_10: 966900044
+      FinishHer_sheet_11: 1166449057
+      FinishHer_sheet_12: -1446281980
+      FinishHer_sheet_13: -666376146
+      FinishHer_sheet_14: -452871241
+      FinishHer_sheet_15: 1595760785
+      FinishHer_sheet_16: -1081560141
+      FinishHer_sheet_17: -1162177574
+      FinishHer_sheet_18: -1820631610
+      FinishHer_sheet_19: -990904094
+      FinishHer_sheet_2: 630857276
+      FinishHer_sheet_20: 1446817211
+      FinishHer_sheet_21: 589930723
+      FinishHer_sheet_22: -1141781379
+      FinishHer_sheet_23: -203861613
+      FinishHer_sheet_24: 1906421038
+      FinishHer_sheet_25: -2141540075
+      FinishHer_sheet_26: -1352235290
+      FinishHer_sheet_27: -355955408
+      FinishHer_sheet_28: -1487508544
+      FinishHer_sheet_29: 1279949839
+      FinishHer_sheet_3: -455925285
+      FinishHer_sheet_30: -1198469415
+      FinishHer_sheet_31: -1452855650
+      FinishHer_sheet_32: -389264153
+      FinishHer_sheet_33: 10762525
+      FinishHer_sheet_34: -1460717369
+      FinishHer_sheet_35: 363640919
+      FinishHer_sheet_36: -738843377
+      FinishHer_sheet_37: -1373985288
+      FinishHer_sheet_38: -2032128305
+      FinishHer_sheet_39: 1083857058
+      FinishHer_sheet_4: -1768233903
+      FinishHer_sheet_40: -1510870035
+      FinishHer_sheet_41: 1066199108
+      FinishHer_sheet_42: -1581268219
+      FinishHer_sheet_43: -250063151
+      FinishHer_sheet_5: -1397073635
+      FinishHer_sheet_6: -1390799683
+      FinishHer_sheet_7: 1095879421
+      FinishHer_sheet_8: 1591640391
+      FinishHer_sheet_9: -974045542
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

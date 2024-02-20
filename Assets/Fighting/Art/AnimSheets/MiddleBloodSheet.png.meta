@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 5fd8d526cd6389c4ea57419b37278b71
+guid: 1fe10acec6691c34ba5401b4427213d1
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -43,7 +43,7 @@ TextureImporter:
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 1
+  spriteMode: 2
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
@@ -147,7 +147,154 @@ TextureImporter:
     forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
-    sprites: []
+    sprites:
+    - serializedVersion: 2
+      name: MiddleBloodSheet_0
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 19
+        width: 7
+        height: 9
+      alignment: 9
+      pivot: {x: 0.21445377, y: 0.48693636}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a73b831c6ef3e342b674e38c26165bd
+      internalID: 401316174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiddleBloodSheet_1
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 19
+        width: 15
+        height: 16
+      alignment: 9
+      pivot: {x: 0.15510483, y: 0.2868905}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 961852440d09c324ea139961b04606a1
+      internalID: 849829672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiddleBloodSheet_2
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 17
+        width: 19
+        height: 24
+      alignment: 9
+      pivot: {x: 0.18439604, y: 0.2746427}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e56a5bbba6ab6e244b9935c2a1733434
+      internalID: 2074755442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiddleBloodSheet_3
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 14
+        width: 24
+        height: 32
+      alignment: 9
+      pivot: {x: 0.17666118, y: 0.30158758}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f70c375423f77544a8a67a851a0afe7a
+      internalID: 679973946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiddleBloodSheet_4
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 13
+        width: 31
+        height: 38
+      alignment: 9
+      pivot: {x: 0.17002352, y: 0.3050683}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd30c60004e555d408b2e0e5e7cc2543
+      internalID: -1717160545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiddleBloodSheet_5
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 9
+        width: 34
+        height: 44
+      alignment: 9
+      pivot: {x: 0.18566401, y: 0.3270089}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b65087cb311daa458ced27e7ff08a4c
+      internalID: 176926773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiddleBloodSheet_6
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 0
+        width: 21
+        height: 56
+      alignment: 9
+      pivot: {x: 0.34322974, y: 0.42231473}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3904d476820f874ca05b4f9b2ee7705
+      internalID: -1835422589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     physicsShape: []
     bones: []
@@ -158,7 +305,14 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      MiddleBloodSheet_0: 401316174
+      MiddleBloodSheet_1: 849829672
+      MiddleBloodSheet_2: 2074755442
+      MiddleBloodSheet_3: 679973946
+      MiddleBloodSheet_4: -1717160545
+      MiddleBloodSheet_5: 176926773
+      MiddleBloodSheet_6: -1835422589
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
