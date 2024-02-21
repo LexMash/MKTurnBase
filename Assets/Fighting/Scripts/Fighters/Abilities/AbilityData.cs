@@ -1,5 +1,4 @@
 ﻿using UnityEngine;
-using UnityEngine.AddressableAssets;
 
 namespace Fighting
 {
@@ -9,6 +8,6 @@ namespace Fighting
         [field:SerializeField] public string Description { get; private set; }
         [field: SerializeField, Range(0, 50)] public int Damage { get; private set; }
         [field:SerializeField, Range(0, 10)] public int Cooldown { get; private set; }
-        [field:SerializeField] public AssetReferenceSprite IconSprite { get; private set; }
+        [field:SerializeField] public Sprite IconSprite { get; private set; }
     }
 }

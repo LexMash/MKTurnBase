@@ -2,66 +2,75 @@
 
 namespace Fighting
 {
-    public class FighterController : IControllable
+    public class FighterController : IDisposable, IFighterController, IAttaker
     {
         public event Action OnEnabled;
         public event Action OnDisabled;
 
-        private readonly IHealthStateNotifier _healthNotifier;
-        private readonly IBattleCalculator _battleCalculator;
+        public event Action MainAttackPerformed;
+        public event Action SpecAttackPerformed;
+        public event Action<AbilityData> AbilityPerformed;
+        public IFighterBattleData BattleData => _data;
+
+        private readonly IFighterInput _input;
+        private readonly IAbilityController _abilityController;
         private readonly IAnimationController _animationController;
 
+        private IFighterBattleData _data;
         private FighterView _view;
 
         public FighterController(
-            IHealthStateNotifier healthNotifier, 
-            IBattleCalculator battleCalculator, 
-            IAnimationController animationController)
+            IAnimationController animationController,
+            IFighterInput input,
+            IAbilityController abilityController
+            )
         {
-            _healthNotifier = healthNotifier;
-            _healthNotifier.HealthChanged += HealthChanged;
-            _healthNotifier.OnDied += OnDied;
+            _input = input;
+            _input.MainAttackPerformed += PerformMainAttack;
+            _input.SpecAttackPerformed += PreformSpecAttack;
+            _input.AbilityPerformed += PerformAbility;
 
-            _battleCalculator = battleCalculator;
-
+            _abilityController = abilityController;
             _animationController = animationController;
         }
 
-        public void Setup(IFighterMetaData metaData, FighterView view)
+        public void Dispose()
         {
-            _view = view;
-
-            _animationController.Setup(_view.Animator);
+            _input.MainAttackPerformed -= PerformMainAttack;
+            _input.SpecAttackPerformed -= PreformSpecAttack;
+            _input.AbilityPerformed -= PerformAbility;
         }
 
-        public void TurnStart()
-        {                   
+        public void Init(FighterView view, IFighterBattleData data)
+        {
+            _view = view;
+            _data = data;
+
+            _abilityController.CooldownAll();
+        }
+
+        public void Enable()
+        {
+            _input.Enable();
+
             OnEnabled?.Invoke();
         }
 
-        public void TurnEnd()
+        public void Disable()
         {
+            _input.Disable();
+
             OnDisabled?.Invoke();
         }
 
-        public void PerformAbility(int index)
+        public void TakeOffStun()
         {
-
+            _animationController.PlayIdle();
         }
 
-        public void PerformMainAttack()
+        public void Stun()
         {
-
-        }
-
-        public void PreformSpecAttack()
-        {
-
-        }
-
-        public void ApplyStunState()
-        {
-
+            _animationController.PlayStun();
         }
 
         public void ApplyBlockState()
@@ -74,14 +83,31 @@ namespace Fighting
 
         }
 
-        private void OnDied()
+        public void ApplyDamageState()
         {
 
         }
 
-        private void HealthChanged(int value)
+        public void ApplyDieState()
         {
 
+        }
+
+        private void PerformAbility(string abilityID)
+        {
+            _abilityController.CooldownAbility(abilityID);
+            AbilityData data = _abilityController.GetAbilityData(abilityID);
+            AbilityPerformed?.Invoke(data);
+        }
+
+        private void PerformMainAttack()
+        {
+            MainAttackPerformed?.Invoke();
+        }
+
+        private void PreformSpecAttack()
+        {
+            SpecAttackPerformed?.Invoke();
         }
     }
 }

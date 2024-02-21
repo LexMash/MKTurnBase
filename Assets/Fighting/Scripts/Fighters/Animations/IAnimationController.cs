@@ -1,13 +1,9 @@
 ﻿using Cysharp.Threading.Tasks;
-using UnityEngine;
 
 namespace Fighting
 {
     public interface IAnimationController
     {
-        bool IsPlay { get; }
-
-        void Setup(Animator animator);
         void PlayIdle();
         void PlayStun();
         UniTask PlayMainAttack();
@@ -16,5 +12,7 @@ namespace Fighting
         UniTask PlayDodge();
         UniTask PlayHit();
         UniTask PlayBlock();
+        UniTask PlayDie();
+        UniTask PlayWin();
     }
 }
